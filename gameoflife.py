@@ -42,7 +42,6 @@ class Pixel(pg.sprite.Sprite):
         self.cor = cor
 
     def sobrevive(self):
-        self.cor = (r, g, b)
         self.image.fill(self.cor)
 
 
