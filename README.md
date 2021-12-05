@@ -2,7 +2,7 @@
 Implementação do jogo "Game of Life" em Python
 
 
-# Regras
+## Regras
 As regras do jogo "Game of Life" podem ser encontradas a partir do minuto 1:03 do vídeo usado como material do curso: https://www.youtube.com/watch?v=HeQX2HjkcNo
 
 Em resumo, segundo https://pt.wikipedia.org/wiki/Jogo_da_vida:
@@ -14,7 +14,7 @@ Em resumo, segundo https://pt.wikipedia.org/wiki/Jogo_da_vida:
 > É importante entender que todos os nascimentos e mortes ocorrem simultaneamente. Juntos eles constituem uma geração ou, como podemos chamá-los, um "instante" na história da vida completa da configuração inicial.
 
 
-# Comandos
+## Comandos
 | Comando | Descrição |
 | ------- | ------------- |
 | i       | Inicializar o jogo aleatoriamente |
