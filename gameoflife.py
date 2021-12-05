@@ -20,7 +20,7 @@ BRANCO = (255, 255, 255)
 
 # Tipografia
 TAMANHO_FONTE = 20
-FONTE = 'arial'
+FONTE = 'comicsansms'
 
 class Pixel(pg.sprite.Sprite):
     def __init__(self, jogo, x, y):
@@ -103,7 +103,7 @@ class Jogo:
             self.blit(4, f"Para iniciar o jogo, o usuário deve marcar")
             self.blit(5, f"com o mouse os pixels que inicialmente estarão")
             self.blit(6, f"ativados, sendo que os demais pixels permanecerão desativados")
-            self.blit(8, f"i    :  Inicializar o jogo aleatoriamente")
+            self.blit(8, f"i       :  Inicializar o jogo aleatoriamente")
             self.blit(9, f"space:  Rodar jogo / Pausar jogo {' (pausado)' if self.pause else ' (rodando)'}")
             self.blit(10,f"esc:  Sair")
         pg.display.flip()
