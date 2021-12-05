@@ -1,11 +1,11 @@
-# Game-Of-Life
-Implementação do jogo "Game of Life" em Python
+# Game Of Life
+Implementação do jogo "Game of Life" em Python.
 
 
 ## Regras
-As regras do jogo "Game of Life" podem ser encontradas a partir do minuto 1:03 do vídeo usado como material do curso: https://www.youtube.com/watch?v=HeQX2HjkcNo
+As regras do jogo "Game of Life" podem ser encontradas a partir do minuto 1:03 do vídeo "Math Has a Fatal Flaw" usado como material do curso (https://www.youtube.com/watch?v=HeQX2HjkcNo)
 
-Em resumo, segundo https://pt.wikipedia.org/wiki/Jogo_da_vida:
+Em resumo (segundo https://pt.wikipedia.org/wiki/Jogo_da_vida):
 > As regras são simples e elegantes:
 > 
 > 1 . Qualquer célula viva com menos de dois vizinhos vivos morre de solidão.
@@ -17,6 +17,12 @@ Em resumo, segundo https://pt.wikipedia.org/wiki/Jogo_da_vida:
 > 4 . Qualquer célula viva com dois ou três vizinhos vivos continua no mesmo estado para a próxima geração.
 > 
 > É importante entender que todos os nascimentos e mortes ocorrem simultaneamente. Juntos eles constituem uma geração ou, como podemos chamá-los, um "instante" na história da vida completa da configuração inicial.
+
+
+## Como Inicializar o Jogo
+1. Abrir o arquivo .py usando a IDLE do Python
+![alt text](https://github.com/carlamoreeno/GameOfLife/blob/main/imagemTutorial/imagem1.png?raw=true)
+
 
 
 ## Comandos
