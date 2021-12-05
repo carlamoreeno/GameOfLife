@@ -21,15 +21,19 @@ Em resumo (segundo https://pt.wikipedia.org/wiki/Jogo_da_vida):
 
 ## Como Inicializar o Jogo
 1. Abrir o arquivo .py usando a IDLE do Python:
+
 ![alt text](https://github.com/carlamoreeno/GameOfLife/blob/main/imagensTutorial/imagem1.png?raw=true)
 
 2. Clicar em "Run" na barra superior e em seguida "Run... Customized" para configurar os parâmetros do programa:
+
 ![alt text](https://github.com/carlamoreeno/GameOfLife/blob/main/imagensTutorial/imagem2.png?raw=true)
 
 3. Inserir o tamanho desejado para a grid do jogo da seguinte forma: insira 2 valores inteiros como parâmetro, altura e largura da grid, respectivamente:
+
 ![alt text](https://github.com/carlamoreeno/GameOfLife/blob/main/imagensTutorial/imagem3.png?raw=true)
 
 4. A tela do jogo será aberta com os valores de grid escolhidos e será possível iniciar o jogo com as instruções em tela:
+
 ![alt text](https://github.com/carlamoreeno/GameOfLife/blob/main/imagensTutorial/imagem4.png?raw=true)
 
 
