@@ -15,8 +15,8 @@ Em resumo, segundo https://pt.wikipedia.org/wiki/Jogo_da_vida:
 
 
 # Comandos
-Command	Description	Values
-| Comando  | Descrição |
-| i | Inicializar o jogo aleatoriamente |
-| space  | Rodar jogo / Pausar jogo |
-| esc  | Sair  |
+| Comando | Descrição |
+| ------- | ------------- |
+| i       | Inicializar o jogo aleatoriamente |
+| space   | Rodar jogo / Pausar jogo |
+| esc     | Sair  |
