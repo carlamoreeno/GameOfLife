@@ -21,7 +21,7 @@ Em resumo (segundo https://pt.wikipedia.org/wiki/Jogo_da_vida):
 
 ## Como Inicializar o Jogo
 1. Abrir o arquivo .py usando a IDLE do Python
-![alt text](https://github.com/carlamoreeno/GameOfLife/blob/main/imagemTutorial/imagem1.png?raw=true)
+![alt text](https://github.com/carlamoreeno/GameOfLife/blob/main/imagensTutorial/imagem1.png?raw=true)
 
 
 
